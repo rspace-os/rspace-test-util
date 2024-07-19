@@ -24,11 +24,11 @@
 	<build>
 		<plugins>
 			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-toolchains-plugin</artifactId>
+				<artifactId>maven-surefire-plugin</artifactId>
 			</plugin>
 		</plugins>
 	</build>
+
 	<dependencies>
 		<!-- requires implementation on classpathe.g. hibernate validator 1.1.0 
 			is used by HibernateValidator 5.3 -->
