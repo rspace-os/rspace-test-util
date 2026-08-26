@@ -1,3 +1,1 @@
-#  rspace-test-util
-
-Test utility methods used by various other rspace packages.
+The code from this project was moved to `rspace-web`, and this project has been archived.
